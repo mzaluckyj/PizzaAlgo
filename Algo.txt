@@ -1,4 +1,5 @@
 Step 1 choose a pizza place
+Step 1a choose nearest location
 Step 2 choose a pizza style
 step 3 choose a sauce
 Step 4 choose toppings
