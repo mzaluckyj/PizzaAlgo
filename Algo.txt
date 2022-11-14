@@ -1,0 +1,7 @@
+Step 1 choose a pizza place
+Step 2 choose a pizza style
+step 3 choose a sauce
+Step 4 choose toppings
+Step 5 add sides
+Step 6 check out
+step 7 pick up order
